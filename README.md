@@ -1,1 +1,2 @@
-# Arvin-Distortion-JUCE
+# ArvinDistortion
+<img src="capture/capture.gif">
