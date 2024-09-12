@@ -91,9 +91,9 @@ android {
 
     sourceSets {
         main.java.srcDirs +=
-            ["../../../../../Documents/arvin-studio/API/JUCE/modules/juce_core/native/javacore/init",
-             "../../../../../Documents/arvin-studio/API/JUCE/modules/juce_core/native/javacore/app",
-             "../../../../../Documents/arvin-studio/API/JUCE/modules/juce_gui_basics/native/javaopt/app"]
+            ["../../../../vst-projects/JUCE/modules/juce_core/native/javacore/init",
+             "../../../../vst-projects/JUCE/modules/juce_core/native/javacore/app",
+             "../../../../vst-projects/JUCE/modules/juce_gui_basics/native/javaopt/app"]
 
         main.res.srcDirs +=
             []
