@@ -36,6 +36,8 @@ add_library( ${BINARY_NAME}
 
     SHARED
 
+    "../../../Source/CustomLookAndFeel.cpp"
+    "../../../Source/CustomLookAndFeel.h"
     "../../../Source/PluginProcessor.cpp"
     "../../../Source/PluginProcessor.h"
     "../../../Source/PluginEditor.cpp"
@@ -1878,6 +1880,7 @@ add_library( ${BINARY_NAME}
 )
 
 set_source_files_properties(
+    "../../../Source/CustomLookAndFeel.h"
     "../../../Source/PluginProcessor.h"
     "../../../Source/PluginEditor.h"
     "../../../Source/Assets/background.png"

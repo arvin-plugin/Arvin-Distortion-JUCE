@@ -5,6 +5,10 @@
               companyWebsite="Arvin Studio" pluginFormats="buildAU,buildAUv3,buildStandalone,buildVST3">
   <MAINGROUP id="XwVcRu" name="ArvinDistortion">
     <GROUP id="{7A590913-9918-72BF-DD4E-8D03280690B2}" name="Source">
+      <FILE id="yCqJvU" name="CustomLookAndFeel.cpp" compile="1" resource="0"
+            file="Source/CustomLookAndFeel.cpp"/>
+      <FILE id="P5vnRZ" name="CustomLookAndFeel.h" compile="0" resource="0"
+            file="Source/CustomLookAndFeel.h"/>
       <FILE id="jzFgMs" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="eqExNe" name="PluginProcessor.h" compile="0" resource="0"
